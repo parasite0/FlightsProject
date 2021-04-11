@@ -1,0 +1,82 @@
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.deps.json
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.runtimeconfig.json
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.runtimeconfig.dev.json
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.dll
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.pdb
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.Views.dll
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.Views.pdb
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.csprojAssemblyReference.cache
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorAssemblyInfo.cache
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorAssemblyInfo.cs
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.AssemblyInfoInputs.cache
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.AssemblyInfo.cs
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.TagHelpers.input.cache
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.TagHelpers.output.cache
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorCoreGenerate.cache
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorTargetAssemblyInfo.cache
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorTargetAssemblyInfo.cs
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.Views.pdb
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.dll
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.pdb
+C:\Users\vlad1\Desktop\ПМ\ИТ\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.csproj.CopyComplete
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.deps.json
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.runtimeconfig.json
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.runtimeconfig.dev.json
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.pdb
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.Views.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.Views.pdb
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.csprojAssemblyReference.cache
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.AssemblyInfoInputs.cache
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.AssemblyInfo.cs
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorAssemblyInfo.cache
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorAssemblyInfo.cs
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.TagHelpers.input.cache
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.TagHelpers.output.cache
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorCoreGenerate.cache
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorTargetAssemblyInfo.cache
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorTargetAssemblyInfo.cs
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.Views.pdb
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.pdb
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.genruntimeconfig.cache
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.csproj.CopyComplete
+C:\Users\vlad1\Desktop\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.deps.json
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.runtimeconfig.json
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.runtimeconfig.dev.json
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.pdb
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.Views.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\bin\Debug\netcoreapp2.1\WebCatalog.Views.pdb
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.csprojAssemblyReference.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.AssemblyInfoInputs.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.AssemblyInfo.cs
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorAssemblyInfo.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorAssemblyInfo.cs
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.TagHelpers.input.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.TagHelpers.output.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorCoreGenerate.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorTargetAssemblyInfo.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.RazorTargetAssemblyInfo.cs
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.Views.pdb
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.pdb
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.genruntimeconfig.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\WebCatalog\obj\Debug\netcoreapp2.1\WebCatalog.csproj.CopyComplete

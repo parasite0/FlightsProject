@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Авиарейсы";
+}
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/js/New.js"></script>
+
+    <title>Авиарейсы</title>
+
+    <style>
+        body {
+            margin: 0;
+            background-image: url(images/sky.jpg)
+        }
+
+        .first {
+            margin-top: 10px;
+            font-size: 50pt;
+            margin-left: 5px;
+            position: 
+        }
+
+        .second {
+            margin-top: 10px;
+            font-size: 20pt;
+            background-color: #EEEFFD;
+        }
+        .button {
+            margin-left: 5px
+        }
+        .flights {
+            margin-left: 0px
+        }
+    </style>
+</head>
+
+<body>
+
+    <div align = "center">
+        <label for="field1" class="first">Поиск авиарейсов:</label><br>
+        <input type="text" class="second" id="field1" size="30" placeholder="Откуда">
+        <input type="text" class="second" id="field2" size="30" placeholder="Куда">
+        <input type="date" class="second" id="field3" size="15" placeholder="Дата">
+        <button class="second" onclick="myFunction();">Поиск</button>
+    </div>
+
+    <div class="second">
+        <label id="flight" class="flights"></label>
+    </div>
+
+</body>
+    </html>

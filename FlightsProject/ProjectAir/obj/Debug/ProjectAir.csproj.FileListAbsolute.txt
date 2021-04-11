@@ -1,0 +1,72 @@
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\ProjectAir.exe.config
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\ProjectAir.exe
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\ProjectAir.pdb
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.csprojAssemblyReference.cache
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Aircraft.resources
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Airports.resources
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Flights.resources
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Form1.resources
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Properties.Resources.resources
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Tickets.resources
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.csproj.GenerateResource.cache
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.exe
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.pdb
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\Npgsql.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Buffers.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Memory.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Text.Json.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.ValueTuple.dll
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\Npgsql.pdb
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\Npgsql.xml
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Buffers.xml
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Memory.xml
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Text.Json.xml
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\bin\Debug\System.ValueTuple.xml
+C:\Users\vlad1\Desktop\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.csproj.CopyComplete
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\ProjectAir.exe.config
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\ProjectAir.exe
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\ProjectAir.pdb
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\Npgsql.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Buffers.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Memory.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Text.Json.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.ValueTuple.dll
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\Npgsql.pdb
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\Npgsql.xml
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Buffers.xml
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Memory.xml
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Text.Json.xml
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\bin\Debug\System.ValueTuple.xml
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.csprojAssemblyReference.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Aircraft.resources
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Airports.resources
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Flights.resources
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Form1.resources
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Properties.Resources.resources
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.Tickets.resources
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.csproj.GenerateResource.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.csproj.CopyComplete
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.exe
+C:\Users\vlad1\Desktop\Институт\Инст\Магистратура 1 семестр\Проектный практикум\Project\ProjectAir\obj\Debug\ProjectAir.pdb
